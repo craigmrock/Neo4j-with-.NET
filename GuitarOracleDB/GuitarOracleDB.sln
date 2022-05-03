@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarOracleDB", "GuitarOracleDB\GuitarOracleDB.csproj", "{E3F15F27-1C73-40FC-9661-4A76C2611ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F15F27-1C73-40FC-9661-4A76C2611ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F15F27-1C73-40FC-9661-4A76C2611ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F15F27-1C73-40FC-9661-4A76C2611ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F15F27-1C73-40FC-9661-4A76C2611ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB12599-F1B9-4EBB-A372-39D0491DA807}
+	EndGlobalSection
+EndGlobal
